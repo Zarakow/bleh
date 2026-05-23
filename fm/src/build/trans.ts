@@ -31,6 +31,11 @@ export let lang_info = {
         by: ['soleilth'],
         last_updated: '2026-04-18',
     },
+    fr: {
+        name: get_language_name('fr'),
+        by: ['Zarakiel'],
+        last_updated: '2026-05-23',
+    },
     it: {
         name: get_language_name('it'),
         by: ['cutotopo', 'pascal-00'],
