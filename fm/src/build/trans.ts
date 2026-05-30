@@ -35,6 +35,11 @@ export let lang_info = {
         by: ['Zarakiel'],
         last_updated: '2026-05-24',
     },
+    fr: {
+        name: get_language_name('fr'),
+        by: ['Zarakiel'],
+        last_updated: '2026-05-24',
+    },
     it: {
         name: get_language_name('it'),
         by: ['cutotopo', 'pascal-00', 'Nikilite'],
