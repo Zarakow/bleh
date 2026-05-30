@@ -634,7 +634,6 @@ export const trans = {
         // this will do the opposite
         en: 'Read less',
         fr: 'Lire moins',
-        it: 'Leggi meno',
     },
     refresh: {
         en: 'Refresh',
@@ -2452,7 +2451,7 @@ export const trans = {
         de: 'Link',
         es: 'Vínculo',
         fr: 'Lien',
-        it: 'Link'
+        it: 'Link',
         ru: 'Ссылка',
     },
     create_link: {
@@ -2579,7 +2578,9 @@ export const trans = {
         // bookmark track/artist/album
         en: 'Bookmark {v}',
         es: 'Marcar {v}',
-        it: 'Segnalibro {v}'
+        fr: 'Ajouter {v} aux favoris',
+        it: 'Segnalibro {v}',
+        ru: 'Добавить {v} в закладки',
     },
     charts: {
         en: 'Charts',
@@ -3048,6 +3049,7 @@ export const trans = {
         es: 'Copiar acento actual al perfil',
         fr: 'Appliquer la couleur actuelle au profil',
         it: 'Copia l’accento corrente nel profilo',
+        ru: 'Скопировать текущий акцент в профиль',
     },
     this_will_replace_your_global_accent: {
         // global accent: the one set in bleh settings
