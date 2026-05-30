@@ -633,11 +633,8 @@ export const trans = {
         // if pressing read more extended content
         // this will do the opposite
         en: 'Read less',
-<<<<<<< HEAD
-        it: 'Leggi meno',
-=======
         fr: 'Lire moins',
->>>>>>> 3aed1732 (4th commit)
+        it: 'Leggi meno',
     },
     refresh: {
         en: 'Refresh',
@@ -2937,16 +2934,10 @@ export const trans = {
         // shown as a description when setting your avatar
         en: 'Present yourself site-wide in your own style',
         de: 'Zeige dich in deinem eigenen Stil auf der Webseite',
-<<<<<<< HEAD
-        ru: 'Покажите свой стиль всему сайту', //just so it doesn't sound that crude but gets the point across. now it's more like 'show your style to the whole site' -- wun4
-        es: 'Preséntate con tu propio estilo por todo el sitio',
-        it: 'Presentati sul sito con il tuo stile personale',
-=======
         es: 'Preséntate con tu propio estilo por todo el sitio',
         fr: 'Personnalisez votre présence sur le site',
         it: 'Presentati sul sito con il tuo stile personale',
         ru: 'Покажите свой стиль всему сайту', //just so it doesn't sound that crude but gets the point across. now it's more like "show your style to the whole site" -- wun4
->>>>>>> e86aaeea (6th)
     },
     customise: {
         en: 'Customise',
@@ -3045,13 +3036,9 @@ export const trans = {
         en: 'Use profile accent globally',
         de: 'Profil-Akzent global verwenden',
         es: 'Usar acento de perfil globalmente',
-<<<<<<< HEAD
-        it: 'Usa l’accento del profilo globalmente',
-=======
         fr: 'Utiliser la couleur du profil partout',
         it: 'Usa l’accento del profilo globalmente',
         ru: 'Использовать цвет профиля глобально',
->>>>>>> e86aaeea (6th)
     },
     apply_global_accent: {
         // global accent: the one set in bleh settings
@@ -3059,13 +3046,8 @@ export const trans = {
         en: 'Copy current accent to profile',
         de: 'Aktuellen Akzent zum Profil kopieren',
         es: 'Copiar acento actual al perfil',
-<<<<<<< HEAD
-        it: 'Copia l’accento corrente nel profilo',
-=======
         fr: 'Appliquer la couleur actuelle au profil',
         it: 'Copia l’accento corrente nel profilo',
-        ru: 'Скопировать текущий акцент в профиль',
->>>>>>> e86aaeea (6th)
     },
     this_will_replace_your_global_accent: {
         // global accent: the one set in bleh settings
@@ -3073,13 +3055,9 @@ export const trans = {
         en: 'This will replace your global accent (the one in use right now)',
         de: 'Dein globaler Akzent (der derzeit verwendete) wird hiermit ersetzt',
         es: 'Esto reemplazará tu acento global (el que estás usando ahora mismo)',
-<<<<<<< HEAD
-        it: 'Questo sostituirà il tuo accento globale (quello attualmente in uso)',
-=======
         fr: 'Cela remplacera votre couleur d’accent globale (celle actuellement utilisée)',
         it: 'Questo sostituirà il tuo accento globale (quello attualmente in uso)',
         ru: 'Это заменит ваш глобальный акцент (тот, который используется сейчас)',
->>>>>>> e86aaeea (6th)
     },
     solarium: {
         name: {
